@@ -1,2 +1,2 @@
 # iprobably.github.io
-myblog
+m
